@@ -1,0 +1,4 @@
+Model,MAE (litres),R2 Score
+Linear Regression,162.47,0.3364
+Random Forest,173.56,0.2369
+Gradient Boosting,179.17,0.2114
